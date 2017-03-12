@@ -1,1 +1,2 @@
 code/tensorflow/**
+data/*.pkl
